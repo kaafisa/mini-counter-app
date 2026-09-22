@@ -40,3 +40,12 @@ button:hover{
     background-color: #4b4b4b;
     color: white;
 }
+@media screen and (max-width:540px){
+
+.number{
+    font-size: 110px;
+}
+button{
+    width: 100%;
+}
+}
