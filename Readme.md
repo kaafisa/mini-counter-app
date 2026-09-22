@@ -45,13 +45,7 @@ This project allows users to increase, decrease, and reset a number. The counter
 5. Dynamic Styling with JavaScript
 6. Reading and modifying existing code
   
-  ### 📂 Project Structure
-**mini-counter-app/**
-│
-├── index.html
-├── style.css
-├── main.js
-└── README.md
+
 #### 🚀 How to Run
 1. Clone this repository:
 git clone YOUR_REPOSITORY_URL
